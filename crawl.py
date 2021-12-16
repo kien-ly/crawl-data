@@ -72,7 +72,7 @@ for bang in range(3, soBang*3+1,3):
             # bangdiem[MH].append(chitiet)
 
             print(chitiet)
-
+# kienkien
 driverclose()
 
 
