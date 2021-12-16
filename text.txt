@@ -18,6 +18,7 @@ neikyl666@gmail.com
 /html/body/div[2]/div[2]/div/div/div[2]/div/div/div[2]/div[2]/div/div[6]/div[30]/table/tbody/tr[1]
 
 /html/body/div[2]/div[2]/div/div/div[2]/div/div/div[2]/div[2]/div/div[6]/div[9]/table/tbody
+/html/body/div[2]/div[2]/div/div/div[2]/div/div/div[2]/div[2]/div/div[6]/div[39]/table/tbody
 
 
 
