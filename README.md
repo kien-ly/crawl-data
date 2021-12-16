@@ -1,6 +1,6 @@
 # crawl-data
 
-Source: https://github.com/boringPpl/Linkedin-profiles-scraping/
+Reference: https://github.com/boringPpl/Linkedin-profiles-scraping/
 
 ## in file text
 
